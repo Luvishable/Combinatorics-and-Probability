@@ -1,0 +1,2 @@
+- This notebook contains information about Combination, Permutation and Probability. 
+- During the course (Combinatorics and Probability on Coursera), I took some notes and solved the assignments on this notebook.
